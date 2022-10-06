@@ -1,5 +1,6 @@
 #include "IteratorMultime.h"
 #include "Multime.h"
+#include <iostream>
 
 
 IteratorMultime::IteratorMultime(const Multime& m) : mult(m) {
